@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+dotenv
+openai
+
+transformers
+torch
+
+pandas
+tqdm
+urllib3
